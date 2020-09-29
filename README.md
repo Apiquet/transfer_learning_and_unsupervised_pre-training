@@ -1,5 +1,7 @@
 # transfer_learning_and_unsupervised_pre-training
- 
+
+Project: https://apiquet.com/2019/03/15/deep-learning-transfert-learning-unsupervised-pre-training/
+
 Learning how to do transfert learning and how to properly use an unsupervised pre-training.
 
 In this repo, I wanted to test how to get better results with few data:
